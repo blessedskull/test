@@ -1,0 +1,3 @@
+https://dl.dropboxusercontent.com/s/t2mx4s69f29gm0v/install.html
+
+itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/baparua2mhqneeo/mcpay.plist
