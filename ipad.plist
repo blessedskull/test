@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.woosim.wspos.ksnet.ipad</string>
+				<string>com.mcpay.mcpayic.ipad.ksnet</string>
 				<key>bundle-version</key>
 				<string>1001</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>McpayICKSNET(ipad)</string>
+				<string>엠씨페이IC(KSNET)</string>
 			</dict>
 		</dict>
 	</array>
